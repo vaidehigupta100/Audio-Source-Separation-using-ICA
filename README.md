@@ -90,6 +90,14 @@ source2 ≈ speaker2
 
 ---
 
+## Dataset Information
+
+The dataset used in this project was self-created. Multiple audio recordings were collected and prepared to demonstrate the Independent Component Analysis (ICA) algorithm for solving the Cocktail Party Problem.
+
+No publicly available dataset was used.
+
+---
+
 ## Applications
 
 * Speech separation
